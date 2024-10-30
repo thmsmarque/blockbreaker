@@ -1,0 +1,15 @@
+Trinôme :   MARQUE Thomas
+            MAZARI Ghilles
+            LATOUCHE-HALLE Tom 
+
+Compilation :
+    créer un fichier build,
+        -entrer dedans depuis l'invite de commande et faire cmake ../
+        -faire make
+        -enfin ./main
+
+Règles :
+    Le but du jeu est de détruire tous les nuages de la partie en faisant rebondir la bille sur les nuages, il ne faut pas laisser tomber la bille sinon quoi le joueur perd une vie, il a initialement trois vie.
+
+Comment jouer :
+    Il suffit de déplacer la plateforme de gauche à droite à l'aide des flèches directionnelles
